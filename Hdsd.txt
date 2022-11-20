@@ -1,0 +1,15 @@
+Fomat nhập dữ liệu input:
+- Mỗi dòng trong file sẽ bao gồm : {Đỉnh} - {trọng số đỉnh( nếu không có điền là 0)} : {Danh sách đỉnh kề}
+- Danh sách đỉnh kề bao gồm các: {Đỉnh} - {trọng số cung} ngăn cách nhau bởi dấu ", "
+- Chú ý: các dòng phải viết liền và không có dòng trắng
+
+HDSD chương trình: 
+* Thuật toán BFS và tìm kiếm theo chiều rộng chạy trên 1 file BFS.py 
+- Nhập đỉnh bắt đầu, kết thúc và chọn thuật toán bạn muốn xử dụng (1 là BFS. 0 là tìm kiếm theo chiều rộng)
+- Kết quả in trong file resulf.txt
+
+* Thuật toán A* chạy file BFS3.py 
+- Nhập đỉnh bắt đầu, kết thúc 
+- Kết quả in trong file resulf.txt
+
+
